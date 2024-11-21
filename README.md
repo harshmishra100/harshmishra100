@@ -1,26 +1,19 @@
 <h1 align="center">Hi 👋, I'm Harsh Mishra</h1>
 <h3 align="center">A passionate Data Science and AI enthusiast</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coding GIF" width="400"/>
+<p align="left"> 
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding GIF" width="400" align="right"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshmishra100&label=Profile%20views&color=0e75b6&style=flat" alt="harshmishra100" /> </p>
 
 - 🔭 I’m currently working on **AI-Based Question Bank Generator**
-
 - 🌱 I’m currently learning **PostgreSQL and Advanced Machine Learning**
-
 - 👯 I’m looking to collaborate on **open-source AI/ML projects**
-
 - 👨‍💻 All of my projects are available at [https://github.com/harshmishra100](https://github.com/harshmishra100)
-
 - 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/harsh-mishra-04b430251/)**
-
 - 💬 Ask me about **AI, Machine Learning, and Full-Stack Development**
-
 - 📫 How to reach me **harsh.mishra@plaksha.edu.in**
-
 - ⚡ Fun fact **I love solving real-world problems using data!**
 
 ---
