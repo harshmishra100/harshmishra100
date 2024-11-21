@@ -42,9 +42,3 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
 </p>
-
----
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshmishra100&show_icons=true&locale=en" alt="harshmishra100" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshmishra100&" alt="harshmishra100" /></p>
