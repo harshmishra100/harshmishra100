@@ -10,7 +10,7 @@
 - **Languages**: Python, C/C++, SQL (PostgreSQL, MySQL), HTML, CSS, JavaScript  
 - **Frameworks/Libraries**: ReactJS, TensorFlow, Scikit-learn, PyTorch, OpenCV, Pandas, Matplotlib  
 - **Tools**: MATLAB, STATA, Git, Jupyter Notebook  
-- **Specialties**: Machine Learning, NLP, Data Visualization, Full-Stack Development  
+- **Specialties**: Machine Learning, NLP, Data Visualization 
 
 ## 📂 Notable Projects
 - [**AI-Based Question Bank Generator**](https://github.com/harshmishra100): Designed a teacher app to generate question papers using AI and PostgreSQL, with export options.
