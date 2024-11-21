@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Mishra</h1>
-<h3 align="center">A passionate Data Science and AI enthusiast</h3>
+<h3 align="center">A passionate Data Science and AI enthusiast from India</h3>
 
 <p align="left"> 
   <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding GIF" width="400" align="right"/>
