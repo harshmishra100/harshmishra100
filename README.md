@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harsh Mishra</h1>
 <h3 align="center">A passionate Data Science and AI enthusiast</h3>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coding GIF" width="400"/>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshmishra100&label=Profile%20views&color=0e75b6&style=flat" alt="harshmishra100" /> </p>
 
 - 🔭 I’m currently working on **AI-Based Question Bank Generator**
