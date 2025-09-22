@@ -8,9 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshmishra100&label=Profile%20views&color=0e75b6&style=flat" alt="harshmishra100" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshmishra100](https://github.com/harshmishra100)
-- 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/harsh-mishra-04b430251/)**
 - 💬 Ask me about **AI, Machine Learning, and Full-Stack Development**
 - 📫 How to reach me **harsh.mishra@plaksha.edu.in**
+- 📝  **[LinkedIn](https://www.linkedin.com/in/harsh-mishra-04b430251/)**
 - ⚡ Fun fact **I love solving real-world problems using data!**
 
 ---
